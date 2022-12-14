@@ -8,3 +8,7 @@ Desafio de Projeto criado para avaliação do conteúdo técnico explorado no re
 ```kotlin
 TODO("Crie uma solução em Koltin abstraindo esse domínio. O arquivo [desafio.kt] te ajudará 😉")
 ```
+
+kotlin console app matricula
+kotlin api springboot initializr 
+kotlin Android App dioeducationinformacoes
