@@ -11,4 +11,4 @@ TODO("Crie uma solução em Koltin abstraindo esse domínio. O arquivo [desafio.
 
 kotlin console app matricula
 kotlin api springboot initializr 
-kotlin Android App dioeducationinformacoes
+kotlin Android App dioeducationformacoes
