@@ -1,24 +1,3 @@
-package com.challenge.dioeducationformacoes
-
-import androidx.test.platform.app.InstrumentationRegistry
-import androidx.test.ext.junit.runners.AndroidJUnit4
-
-import org.junit.Test
-import org.junit.runner.RunWith
-
-import org.junit.Assert.*
-
-/**
- * Instrumented test, which will execute on an Android device.
- *
- * See [testing documentation](http://d.android.com/tools/testing).
- */
-@RunWith(AndroidJUnit4::class)
-class ExampleInstrumentedTest {
-    @Test
-    fun useAppContext() {
-        // Context of the app under test.
-        val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.challenge.dioeducationformacoes", appContext.packageName)
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f6c83ddc375af22460fb42b42f8dfa9f8b24b60907d3a0b672ea836348828a1
+size 697
